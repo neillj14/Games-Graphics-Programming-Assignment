@@ -1,5 +1,36 @@
 # Games Graphics Programming Assignment 
-
+Please read this document before trying to open this
+## Controls
+|Action|Control|
+|---|---|
+|Rotate the cube about the X axis|Press 'R' and then 'X'|
+|Rotate the cube about the Y axis|Press 'R' and then 'Y'|
+|Rotate the cube about the Z axis|Press 'R' and then 'Z'|
+|Render the cube in wireframe mode|Press 'W'|
+|Render the cube in solid mode|Press 'S'|
+|Cull all Back Facing sides (you wont notice anything happen when you do this but it's there)|Press 'B'|
+|Cull all Front Facing sides|Press 'F'|
+|Cull nothing(You won't notice this happen either)|Press 'N'|
+|Move the camera freely|Arrow Keys|
+|Move the cube freely|Left click and drag inside the window|
+|View the cube front on|Press '1'|
+|View the cube top down|Press '2'|
+|View the cube side on|Press '3'|
+|View the cube side from left point|Press '0'|
+|Reset the cube|Press 'I'|
+|Rotate the front face 90°|Press '4'|
+|Rotate the left face 90°|Press '5'|
+|Rotate the right face 90°|Press '6'|
+|Rotate the back face 90°|Press '7'|
+|Rotate the top face 90°|Press '8'|
+|Rotate the bottom face 90°|Press '9'|
+## To Open
+In order to open this you need
+ - Visual Studio 2015 or later
+ - C++ with Windows SDK later than 10.015... installed
+ - DirectX 12
+ - A DirectX 12 compatible GPU (This was written between a GTX 1080 and an RX570)
+## The Task
 This assignment was designed to test the understanding students have of the Rendering pipeline and how 3D graphics are processed. 
 The task was to make a functional rubiks with the following functional elements
   - The location of the cubes relative to one another can be altered by twisting the
