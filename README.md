@@ -53,7 +53,7 @@ horizontal or vertical row.
 
 My final solution implemented these
 
-|Feature|Implemented|
+|Feature|Implemented Correctly|
 |---|---|
 |The location of the cubes relative to one another can be altered by twisting the outer third of the cube by 90°, 180° or 270°.|:x:|
 |The user can reset the cube to the initial solved state by pressing the ‘I’ key.|:heavy_check_mark:|
