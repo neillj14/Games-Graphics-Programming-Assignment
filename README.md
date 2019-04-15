@@ -13,6 +13,7 @@ Please read this document before trying to open this
 |Cull nothing(You won't notice this happen either)|Press 'N'|
 |Move the camera freely|Arrow Keys|
 |Move the cube freely|Left click and drag inside the window|
+|Zoom in/out|Right click and drag the mouse away from/towards yourself|
 |View the cube front on|Press '1'|
 |View the cube top down|Press '2'|
 |View the cube side on|Press '3'|
